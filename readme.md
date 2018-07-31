@@ -1,12 +1,12 @@
-# _My-first-webpage_
+# _README_
 
-#### _Overview of programming languages we will learn_
+#### _Languages we will learn_
 
 #### By _**Akjol Jaenbai and Steve Santos**_
 
-## List of programs
+## Description
 
-_First webpage we created  _
+_List of programs we will learn_
 
 ## Setup/Installation Requirements
 
@@ -28,10 +28,10 @@ _Let people know what to do if they run into any issues or have questions, ideas
 
 ## Technologies Used
 
-_We used HTML to create a simple webpage with pictures and links_
+_Tell me about the languages and tool  s you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out._
 
-### GPL
+### License
 
-*GNU GPLv3*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) 2018 **_{Akjol Jaenbai Steve Santos_**
+Copyright (c) 2016 **_List of contributors or company name_**
